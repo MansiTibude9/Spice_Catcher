@@ -7,6 +7,7 @@ This is the game, which related to catch the villain, characters are decided and
 - The character have to collect all the spices as characters and need to catch, and made a recipe to make delicious food
 - The utensils required and spices required, we need to check
 - Most unique colors are required for each characters
+- Another story for objectifying the Humans as spices and then, the asking the one for catching them as spices, making dishes
 
   
   
