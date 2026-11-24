@@ -8,6 +8,7 @@ This is the game, which related to catch the villain, characters are decided and
 - The utensils required and spices required, we need to check
 - Most unique colors are required for each characters
 - Another story for objectifying the Humans as spices and then, the asking the one for catching them as spices, making dishes
-
+- There will be three categories of people with something unique in everyone
+  
   
   
